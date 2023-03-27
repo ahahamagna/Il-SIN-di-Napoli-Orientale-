@@ -1,4 +1,4 @@
-# Il_SIN_di_Napoli_Orientale
+# QGIS_SIN_di_Napoli_Orientale
 Un’analisi congiunta del SIN di “Napoli Orientale” e dei servizi educativi dedicati ai bambini tra i 0 ed i 6 anni presenti all’interno dell’area.
 
 Secondo la definizione fornita dall’Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA) un Sito Contaminato consiste in un’area in cui le attività umane hanno determinato un’alterazione tale di suolo, sottosuolo e acque sotterranee, da rappresentare un rischio per la salute umana. Tra i Siti Contaminati ve ne sono alcuni considerati altamente a rischio a causa della quantità e della pericolosità degli inquinanti presenti, per l’impatto sull’ambiente circostante, per il rischio sanitario ed ecologico e per i beni culturali dell’area. Si tratta dei Siti di Interesse Nazionale (SIN), per i quali lo Stato predispone specifiche procedure di bonifica.
